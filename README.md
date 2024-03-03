@@ -25,7 +25,7 @@
   - To *go* into **INSERT** mode press the `i` key on your keyboard. (then you can make changes or write into the current file)
   - To *exist* from the **INSERT** mode press the `esc` key on your keyboard.
   - To *save/write* the current file press `:w`
-  - To *exist/quit* from the vim editor press `:q`
+  - To *exist/quit* from the vim editor press `:q` <br>
     You can write and quit at the same time by pressing `:wq`
 
 ## Motions
